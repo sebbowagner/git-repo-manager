@@ -1,0 +1,12 @@
+# Ignore local environment configuration
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore editor/IDE clutter
+.vscode/
+.idea/
+*.swp
+*.swo
